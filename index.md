@@ -1,5 +1,5 @@
 ﻿# Ball-Tracking Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This Raspberry Pi-powered robot uses a camera module to detect and approach a ball. The trick is in the color: the Raspberry Pi isolates the color of the ball, making identification much more simple.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -18,6 +18,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+For my first milestone, I tested the camera module with a color-filter. First, I set up my Raspberry Pi. I uploaded an OS for the Pi to a micro SD, and plugged it into the board. Then, I downloaded PuTTY and VNC Viewer to interact with the Pi through my laptop. Once I could access the Pi, I installed necessary camera packages to be able to use the camera module, then I installed OpenCV for the capability of color-filtering. I plugged in the camera module, and set to writing some test code. The completed code provided three displays, a preview of the raw camera stream, that same camera stream with the color red isolated as white, and finally, the camera stream with the color red isolated as red. It encouraged me, because the test showed a major part of the completed prototype in a functional state.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/akWSVJHWgVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/akWSVJHWgVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
