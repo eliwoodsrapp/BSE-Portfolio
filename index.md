@@ -3,7 +3,7 @@ This Raspberry Pi-powered robot uses a camera module to detect and approach a ba
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Eli W. | Irvine High School | Mechanical Engineering | Incoming Senior
+| Eli R. | Irvine High School | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
