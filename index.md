@@ -8,8 +8,7 @@ This Raspberry Pi-powered robot uses a camera module to detect and approach a ba
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-For my final milestone, I added the camera to the car, and re-programmed the robot for ball tracking. First, I secured the camera. I also secured a portable phone charger to the robot, which had the correct voltage to power the Pi, finally giving my robot mobility. Then, I worked on the code. Programming was difficult, and 
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my final milestone, I added the camera to the car, and re-programmed the robot for ball tracking. First, I secured the camera. I also secured a portable phone charger to the robot, which had the correct voltage to power the Pi, finally giving my robot mobility. Then, I worked on the code. Programming was difficult, and
 
 <iframe width="967" height="544" src="https://www.youtube.com/embed/EPnFZ90-Yls?list=PLe-u_DjFx7eujQBN2E6SXTYd1A-A5wa6Z" title="Eli R Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
