@@ -29,23 +29,23 @@ For my first milestone, I tested the camera module with a color-filter. First, I
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Part | Qty | Description | Ref. Designator | Cost | Site
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. | Ref. Designator | 18.99 | [amazon](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/)
+| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. | M1,M2 | 18.99 | [amazon](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Ping Sensors | 1 | ultrasonic sensors | Ref. Designator | 12.99 | [amazon](https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/)
+| Ping Sensors | 1 | ultrasonic sensors |  | 12.99 | [amazon](https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| H-Bridges | 1 | to control DC motors | Ref. Designator | 8.99 | [amazon](https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/)
+| H-Bridges | 1 | to control DC motors | IC1 | 8.99 | [amazon](https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Pi Cam | 1 | Pi Cam | Ref. Designator | 9.99 | [amazon](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/)
+| Pi Cam | 1 | Pi Cam |  | 9.99 | [amazon](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Jumper Wires | 1 | Jumper Wires | Ref. Designator | 6.98 | [amazon](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/)
+| Jumper Wires | 1 | Jumper Wires |  | 6.98 | [amazon](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Raspberry Pi 4 | Q1 | microcontroller | Ref. Designator | 129.99 | [amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/)
+| Raspberry Pi 4 | Q1 | microcontroller |  | 129.99 | [amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Micro Sd | 1 | for Raspberry Pi OS | Ref. Designator | 8.00 | [amazon](https://www.amazon.com/gp/product/B089VVP61W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+| Micro Sd | 1 | for Raspberry Pi OS |  | 8.00 | [amazon](https://www.amazon.com/gp/product/B089VVP61W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Raspberry Pi Charger | 1 | stationary power | Ref. Designator | 7.99 | [amazon](https://www.amazon.com/Replacement-Raspberry-Pi-4-Supply-Charger-Adapter/dp/B094J8TK61/)
+| Raspberry Pi Charger | 1 | stationary power |  | 7.99 | [amazon](https://www.amazon.com/Replacement-Raspberry-Pi-4-Supply-Charger-Adapter/dp/B094J8TK61/)
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Cell Phone Power Bank | 1 | mobile power | Ref. Designator | 17.97 | [amazon](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y?th=1)
+| Cell Phone Power Bank | 1 | mobile power |  | 17.97 | [amazon](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y?th=1)
 
 # Tools Required
 
