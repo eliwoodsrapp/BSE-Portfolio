@@ -27,16 +27,34 @@ For my first milestone, I tested the camera module with a color-filter. First, I
 # Bill of Materials
 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| part | qtt | descript | ref-ind | cost | webst
+| Part | Qty | Description | Ref. Designator | Cost | Site
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. | Ref. Designator | 18.99 | [amazon](https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Ping Sensors | 1 | ultrasonic sensors | Ref. Designator | 12.99 | [amazon](https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| H-Bridges | 1 | to control DC motors | Ref. Designator | 8.99 | [amazon](https://www.amazon.com/ACEIRMC-Stepper-Controller-2-5-12V-H-Bridge/dp/B0923VMKSZ/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Pi Cam | 1 | Pi Cam | Ref. Designator | 9.99 | [amazon](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Jumper Wires | 1 | Jumper Wires | Ref. Designator | 6.98 | [amazon](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Raspberry Pi 4 | Q1 | microcontroller | Ref. Designator | 129.99 | [amazon](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Micro Sd | 1 | for Raspberry Pi OS | Ref. Designator | 8.00 | [amazon](https://www.amazon.com/gp/product/B089VVP61W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Raspberry Pi Charger | 1 | stationary power | Ref. Designator | 7.99 | [amazon](https://www.amazon.com/Replacement-Raspberry-Pi-4-Supply-Charger-Adapter/dp/B094J8TK61/)
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Cell Phone Power Bank | 1 | mobile power | Ref. Designator | 17.97 | [amazon](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y?th=1)
 
 # Tools Required
 
-|:--:|:--:|:--:|:--:|
-# | Tool | Qty | Cost | Site
-|:--:|:--:|:--:|:--:|
-| Soldering Iron | 1 | $19.99 | [amazon](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=asc_df_B07GTGGLXN/?tag=hyprod-20&linkCode=df0&hvadid=241999416883&hvpos=&hvnetw=g&hvrand=137463208067721732&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031525&hvtargid=pla-590653449503&psc=1)
-|:--:|:--:|:--:|:--:|
-| Screwdriver Kit | 1 | $5.94 | [amazon](https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/)
+|:--:|:--:|:--:|
+| Tool | Cost | Site
+|:--:|:--:|:--:|
+| Soldering Iron | 19.99 | [amazon](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=asc_df_B07GTGGLXN/?tag=hyprod-20&linkCode=df0&hvadid=241999416883&hvpos=&hvnetw=g&hvrand=137463208067721732&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031525&hvtargid=pla-590653449503&psc=1)
+|:--:|:--:|:--:|
+| Screwdriver Kit | 5.94 | [amazon](https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/)
 
 # Final Code
 
