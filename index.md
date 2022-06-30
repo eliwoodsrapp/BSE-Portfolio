@@ -24,6 +24,10 @@ For my first milestone, I tested the camera module with a color-filter. First, I
 
 <iframe width="967" height="544" src="https://www.youtube.com/embed/akWSVJHWgVM?list=PLe-u_DjFx7eujQBN2E6SXTYd1A-A5wa6Z" title="Eli R Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Schematic
+
+![302_schem](https://user-images.githubusercontent.com/107571947/176756968-4bae23b3-29cc-46bf-9844-8a8d40c543f2.jpg)
+
 # Bill of Materials
 
 |:--:|:--:|:--:|:--:|:--:|:--:|
