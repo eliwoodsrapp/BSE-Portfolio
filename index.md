@@ -5,10 +5,14 @@ This Raspberry Pi-powered robot uses a camera module to detect and approach a ba
 |:--:|:--:|:--:|:--:|
 | Eli R. | Irvine High School | Mechanical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![dfgdfg](https://user-images.githubusercontent.com/107571947/176932379-5ec63f23-1e41-4014-81a9-59ca7fbfbe03.PNG)
   
+# Demo Night
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/r0EVvnOVzFQ?list=PLe-u_DjFx7eujQBN2E6SXTYd1A-A5wa6Z" title="Eli R Demo Night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Final Milestone
-For my final milestone, I added the camera to the car, and re-programmed the robot for ball tracking. First, I secured the camera. I also secured a portable phone charger to the robot, which had the correct voltage to power the Pi, finally giving my robot mobility. Then, I worked on the code. Programming was difficult, and
+For my final milestone, I added the camera to the car, and re-programmed the robot for ball tracking. First, I secured the camera. I also secured a portable phone charger to the robot, which had the correct voltage to power the Pi, finally giving my robot mobility. Then, I worked on the code. Programming was difficult, and I ran into some trouble getting all the code to work. Once it worked, I still had to fine-tune the logic, which was just trial and error. Once it was all finished though, the robot worked surprisingly well.
 
 <iframe width="967" height="544" src="https://www.youtube.com/embed/EPnFZ90-Yls?list=PLe-u_DjFx7eujQBN2E6SXTYd1A-A5wa6Z" title="Eli R Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
